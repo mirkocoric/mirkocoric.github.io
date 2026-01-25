@@ -50,7 +50,20 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 * **Multi-domain Systems Engineering:** Led parallel research initiatives in hybrid energy systems, transmission control logic, and high-altitude wind energy infrastructure.
 * **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
 ---
+---
 
+## Testimonials & Recognition
+
+> "I enjoyed working with Mirko. He brought great ideas on how to stop anti-fraud messages and URLs using data science and machine learning. He was self-motivating and would research new ideas for consideration relating to natural language understanding."
+> — **Michael Bordash**, SVP R&D @ Syniverse (formerly at RealNetworks)
+
+> "Mirko and I were colleagues at RealNetworks for a little over two years. I can say that his knowledge and skills impressed me on several occasions. He brought ideas that significantly improved the development of our products... the team has lost a lot since he left."
+> — **Branimir Dropuljić**, Distinguished Scientist @ RealNetworks
+
+> "Mirko possesses required competences for high-end research and development work. He has shown exceptional autonomy and meticulous character in his research activities, as well as an enviable level of professional communication."
+> — **Prof. Danijel Pavkovic**, University of Zagreb
+
+---
 ## Education & Academic Foundation
 
 ### **University of Zagreb** | PhD in Mathematical Optimization
