@@ -53,7 +53,7 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 * **Advanced Mathematical Optimization:** Applied **Genetic Algorithms** and **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
 * **Multi-domain Systems Engineering:** Led parallel research initiatives in hybrid energy systems, transmission control logic, and high-altitude wind energy infrastructure.
 * **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
----
+
 ---
 
 ## Testimonials & Recognition
@@ -70,13 +70,13 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 ---
 ## Education & Academic Foundation
 
-### **University of Zagreb** | PhD in Mathematical Optimization
+### **University of Zagreb** | PhD 
 * **Focus:** Advanced Numerical Optimization and Algorithmic Modeling for high-dimensional systems.
 * **R&D Impact:** Published 14 research works (7 journal papers, 5 conference papers) focusing on optimization and performance analysis.
 * **Methodology:** Applied Genetic Algorithms and SQP (Sequential Quadratic Programming) to solve complex non-convex problems.
 
 ### **University of Zagreb (FER)** | MSc & BSc in Computer Science / AI
-* **MSc in Automatic Control:** Grade 4.91/5.00 | Focus on Neural Networks and Intelligent Control.
+* **MSc in Automatic Control:** Grade 4.91/5.00 | Focus on Intelligent Control.
 * **BSc in Electrical Engineering:** Grade 4.96/5.00 | Recipient of the Academic Excellence Award.
 
 ---
