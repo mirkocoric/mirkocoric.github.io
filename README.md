@@ -97,7 +97,8 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Looking for: High-impact roles in AI Systems, ML Infrastructure, or Algorithmic Optimization.**
-* **Personal Interests:** Competitive Mathematics (National/Mediterranean awards), Chess, and Strategic Bridge.
-* **Academic Verification:** For a full publication record and 240+ citations, visit the official **[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=M7qChCEAAAAJ)**
+**Personal Interests:** Competitive Mathematics (National/Mediterranean awards), Chess, and Strategic Bridge.
+**Academic Verification:** For a full publication record and 240+ citations, visit the official **[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=M7qChCEAAAAJ)**
+
 ---
 
