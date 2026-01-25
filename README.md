@@ -4,7 +4,7 @@
 ---
 
 ## Executive Summary
-I specialize in the architecture and scaling of high-throughput Machine Learning systems. At **Meta (Core Ads Growth)**, I pioneered the transition to knowledge distillation and multi-task learning architectures, successfully productionalising SOTA research into a global-scale ranking engine. My work focuses on performance neutrality and feature consolidation, reducing technical debt without compromising revenue metrics.
+I am Mirko Čorić, a Senior AI & Systems Engineer I specializeed in the architecture and scaling of high-throughput Machine Learning systems. At **Meta (Core Ads Growth)**, I pioneered the transition to knowledge distillation and multi-task learning architectures, successfully productionalising SOTA research into a global-scale ranking engine. My work focuses on performance neutrality and feature consolidation, reducing technical debt without compromising revenue metrics.
 
 Previously, at **RealNetworks**, I architected messaging intelligence systems processing hundreds of millions of events daily and was a named inventor on patent filings for Brand Smishing and identity verification.
 
