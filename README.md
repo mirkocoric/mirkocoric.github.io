@@ -1,25 +1,21 @@
-### Senior AI & Systems Engineer (Ex-Meta L5)
+# Senior AI & Systems Engineer
+**Ex-Meta L5 | PhD in Engineering (Mathematical Optimization)**
+
 **Target Locations:** US, UK, Switzerland, Singapore
 
 ---
 
 ## Executive Summary
-I am Mirko Čorić, a Senior AI & Systems Engineer I specializeed in the architecture and scaling of high-throughput Machine Learning systems. At **Meta (Core Ads Growth)**, I pioneered the transition to knowledge distillation and multi-task learning architectures, successfully productionalising SOTA research into a global-scale ranking engine. My work focuses on performance neutrality and feature consolidation, reducing technical debt without compromising revenue metrics.
 
-Previously, at **RealNetworks**, I architected messaging intelligence systems processing hundreds of millions of events daily and was a named inventor on patent filings for Brand Smishing and identity verification.
+Mirko Čorić is a Senior AI & Systems Engineer specializing in the architecture and scaling of high-throughput Machine Learning systems. During his tenure at **Meta (Core Ads Growth)**, he pioneered the transition to knowledge distillation and multi-task learning architectures. This work successfully productionalized SOTA research into a global-scale ranking engine, focusing on performance neutrality and feature consolidation to reduce technical debt without compromising revenue metrics.
 
-I hold a **PhD in Engineering**, specializing in Mathematical Optimization—a foundation I use to bridge complex algorithmic theory with production-grade C++ and Python infrastructure.
+The professional background includes architecting messaging intelligence systems at **RealNetworks**, where systems processed hundreds of millions of events daily. This experience led to being a named inventor on patent filings for Brand Smishing and identity verification.
+
+A **PhD in Engineering**, with a specialization in Mathematical Optimization, serves as the foundation for bridging complex algorithmic theory with production-grade C++ and Python infrastructure.
 
 ---
 
-## Industry Recognition
-> "Mirko's knowledge and skills impressed me on several occasions. He brought ideas that significantly improved the development of our products."
-> — **Branimir Dropuljić**, Distinguished Scientist at RealNetworks
-
-> "I enjoyed working with Mirko. He brought great ideas on how to stop anti-fraud messages and URLs... I would love to find a way to work with him again."
-> — **Michael Bordash**, SVP R&D @ Syniverse
-
-## Academic Excellence
-* **PhD in Engineering**, University of Zagreb (Specialization in Mathematical Optimization).
-* **MSc & BSc in Control Engineering**, top 1% of the generation (GPA 4.96/5.00).
-* **Research & Development:** Proven aptitude for R&D work on projects supported by Ford Motor Company and the European Commission.
+## Technical Expertise & Industry Recognition
+* **Systems:** High-throughput ML Architecture, Scalable Infrastructure, Performance Optimization.
+* **Machine Learning:** Knowledge Distillation, Ranking Engines, Multi-task Learning.
+* **Core Skills:** C++, Python, Mathematical Optimization, Feature Consolidation.
