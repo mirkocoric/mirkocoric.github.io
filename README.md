@@ -19,8 +19,10 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 
 ## Technical Expertise & Industry Recognition
 **Systems:** High-throughput ML Architecture, Scalable Infrastructure, Performance Optimization.
+
 **Machine Learning:** Knowledge Distillation, Ranking Engines, Multi-task Learning.
-**Core Skills:** C++, Python, Mathematical Optimization, Feature Consolidation.
+
+**Core Skills:** C++, Python, Mathematical Optimization, Machine Learning System Design
 
 ---
 
