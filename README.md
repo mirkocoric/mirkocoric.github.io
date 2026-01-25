@@ -1,7 +1,10 @@
 # Senior AI & Systems Engineer
-**Ex-Meta L5 | PhD in Mathematical Optimization | High-Throughput ML Systems**
+**Ex-Meta L5 |High-Throughput ML Systems | PhD **
 
-[LinkedIn](https://www.linkedin.com/in/mirkocoric/) | [Email](mailto:mirko.coric@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkocoric/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirko@email.com)
+
+
 ---
 
 ## Executive Summary
@@ -85,6 +88,14 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 ---
 
 ## Technical Footprint
-* **Top Skills:** C++, Python, Mathematical Optimization, Scalable Architecture, Reliability Engineering.
+**Languages & Tools:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Looking for: High-impact roles in AI Systems, ML Infrastructure, or Algorithmic Optimization.**
 * **Personal Interests:** Competitive Mathematics (National/Mediterranean awards), Chess, and Strategic Bridge.
-* **Academic Verification:** For a full publication record and 240+ citations, visit the official **[Google Scholar Profile](https://scholar.google.com/citations?user=M7qChCEAAAAJ)**.
+* **Academic Verification:** For a full publication record and 240+ citations, visit the official **[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=M7qChCEAAAAJ)**
+---
+
