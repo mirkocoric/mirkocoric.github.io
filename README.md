@@ -1,4 +1,3 @@
-# Mirko Čorić
 ### Senior AI & Systems Engineer (Ex-Meta L5)
 **Target Locations:** US, UK, Switzerland, Singapore
 
