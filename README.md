@@ -24,10 +24,11 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 
 ### **Meta** | Senior Software Engineer (Systems) [L5]
 *2021 – 2024 | London, UK*
-* **Architectural Redesign:** Led the redesign of Ads Ranking ML models from mathematical design to implementation, optimizing for ranking precision and system throughput.
-* **Large-Scale Experimentation:** Managed end-to-end lifecycle of ranking models and utilized canary deployment frameworks to validate system-wide changes.
-* **Engineering Excellence:** Drove operational reliability by performing deep-dive root cause analysis on data-shift issues to ensure long-term model stability.
-* **Systemic Feature Consolidation:** Partnered with infrastructure teams to audit and streamline ranking feature sets, reducing overall system complexity.
+* **Architectural Redesign for Ads Ranking ML models:** Led the redesign of model architecture, owned the end-to-end lifecycle—from mathematical design to implementation—optimizing for ranking precision and system throughput.
+* **Large-Scale Experimentation & Deployment:** Managed the execution of online A/B tests and utilized canary deployment frameworks to validate model and code changes on production subsets before full-scale launch.
+* **Engineering Excellence & Model Freshness:** Drove operational reliability by performing deep-dive root cause analysis on model snapshot rejections and data-shift issues to maintain real-time model accuracy.
+* **Critical Infrastructure Reliability:** Maintained the stability of production ML infrastructure as part of a 24/7 on-call rotation, responding to high-priority incidents and maintaining production availability standards.
+* **Systemic Feature Consolidation:** Partnered with infrastructure teams to audit and consolidate the ranking feature set.
 
 ### **RealNetworks** | Data Scientist / Systems Architect
 *2018 – 2021 | Zagreb, Croatia*
@@ -36,6 +37,18 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 * **Invention (Patent US20220394435A1):** Developed behavioral fingerprinting systems based on deep learning analysis of message metadata for automated sender categorization.
 * **NLP Leadership:** Directed large-scale unsupervised text clustering initiatives, bridging algorithmic research with high-performance production logic.
 
+### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
+*2017 - 2018 | Zagreb, Croatia*
+* **Geospatial Systems:** Engineered geospatial data clustering software specifically optimized for logistics and transport solutions.
+* **Database & Performance:** Designed and implemented database optimization strategies, significantly improving data import efficiency and overall system throughput.
+* **Backend & Optimization:** Translated complex ORM logic into optimized SQL batch processing to ensure high performance in data-heavy environments.
+
+### **University of Zagreb** | Research Assistant
+*2012 - 2017  | Zagreb, Croatia*
+* **Industrial R&D (Ford Motor Company):** Developed high-fidelity models and performance metrics for complex system simulations. Collaborated directly with Ford Technical Fellows to analyze system behavior under diverse, high-stakes operational scenarios.
+* **Advanced Mathematical Optimization:** Applied **Genetic Algorithms** and **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
+* **Multi-domain Systems Engineering:** Led parallel research initiatives in hybrid energy systems, transmission control logic, and high-altitude wind energy infrastructure.
+* **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
 ---
 
 ## Education & Academic Foundation
