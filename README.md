@@ -1,4 +1,4 @@
-# Senior / Staff Machine Learning Engineer (Production Systems)
+# Senior / Staff Machine Learning Engineer 
 Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkocoric/)
