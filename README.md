@@ -9,7 +9,12 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 
 ## Executive Summary
 
-I specialize in the architecture and scaling of high-throughput Machine Learning systems. At **Meta (Core Ads Growth)**, I pioneered the transition to knowledge distillation, multi-task learning and custom model architectures, and successfully deployed SOTA research into a global-scale ranking engine, bridging the gap between algorithmic theory and production-grade infrastructure. Previously, at  **RealNetworks**, I architected messaging intelligence systems processing hundreds of millions of events daily and was a named inventor on patent filings for Brand Smishing and message senders categorization. I hold a **PhD in Engineering**, specializing in Mathematical Optimization—a foundation I use to bridge complex algorithmic theory with production-grade C++ and Python infrastructure.
+Scaling high-throughput machine learning systems is where my work lives — at the intersection of research, real traffic, and global infrastructure.
+Over the years,  I’ve designed and scaled high-throughput ML systems used in global products. At **Meta (Core Ads Growth)**, this meant pioneering the ranking system transition to knowledge distillation, multi-task learning, and custom model architectures — and shipping them into one of the world’s largest ads engines.
+
+Earlier, at **RealNetworks**, the focus was on messaging intelligence: designing systems capable of processing hundreds of millions of events per day. That work contributed to patented solutions in message senders categorization and brand smishing detection.
+
+I hold a  **PhD in Engineering** with a focus on mathematical optimization. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment, primarily in Python within large-scale infrastructures.
 
 ---
 
