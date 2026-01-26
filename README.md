@@ -9,11 +9,7 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 
 ## Executive Summary
 
-Mirko Čorić is a Senior AI & Systems Engineer specializing in the architecture and scaling of high-throughput Machine Learning systems. During his tenure at **Meta (Core Ads Growth)**, he pioneered the transition to knowledge distillation and multi-task learning architectures. This work successfully productionalized SOTA research into a global-scale ranking engine, focusing on performance neutrality and feature consolidation to reduce technical debt without compromising revenue metrics.
-
-The professional background includes architecting messaging intelligence systems at **RealNetworks**, where systems processed hundreds of millions of events daily. This experience led to being a named inventor on patent filings for Brand Smishing and identity verification.
-
-A **PhD in Engineering**, with a specialization in Mathematical Optimization, serves as the foundation for bridging complex algorithmic theory with production-grade C++ and Python infrastructure.
+I specialize in the architecture and scaling of high-throughput Machine Learning systems. At **Meta (Core Ads Growth)**, I pioneered the transition to knowledge distillation, multi-task learning and custom model architectures, and successfully deployed SOTA research into a global-scale ranking engine, bridging the gap between algorithmic theory and production-grade infrastructure. Previously, at  **RealNetworks**, I architected messaging intelligence systems processing hundreds of millions of events daily and was a named inventor on patent filings for Brand Smishing and identity verification. I hold a **PhD in Engineering**, specializing in Mathematical Optimization—a foundation I use to bridge complex algorithmic theory with production-grade C++ and Python infrastructure.
 
 ---
 
@@ -41,7 +37,7 @@ A **PhD in Engineering**, with a specialization in Mathematical Optimization, se
 * **Messaging Intelligence:** Designed multi-stage classification engines processing hundreds of millions of messages daily, integrating real-time content analysis with sender profiling.
 * **Invention (Patent US20230065069A1):** Designed a hybrid detection pipeline to mitigate Brand Smishing attacks using contextual probability and distance-based metrics.
 * **Invention (Patent US20220394435A1):** Developed behavioral fingerprinting systems based on deep learning analysis of message metadata for automated sender categorization.
-* **NLP Leadership:** Directed large-scale unsupervised text clustering initiatives, bridging algorithmic research with high-performance production logic.
+* **NLP Leadership:** Led SOTA NLP & Clustering Initiatives: Directed the design and core programming of large-scale natural language understanding and unsupervised text clustering services, bridging the gap between theoretical research and high-performance production logic.
 
 ### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
 *2017 - 2018 | Zagreb, Croatia*
