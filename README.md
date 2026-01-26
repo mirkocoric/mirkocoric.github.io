@@ -1,5 +1,5 @@
-# Senior AI & Systems Engineer
-Ex-Meta L5 | High-Throughput ML Systems | PhD 
+# Senior / Staff Machine Learning Engineer (Production Systems)
+Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkocoric/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirko@email.com)
