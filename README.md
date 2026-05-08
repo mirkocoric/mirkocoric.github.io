@@ -14,7 +14,7 @@ Over the years,  I’ve designed and scaled high-throughput ML systems used in g
 
 Earlier, at **RealNetworks**, the focus was on messaging intelligence: designing systems capable of processing hundreds of millions of events per day. That work contributed to patented solutions in message senders categorization and brand smishing detection.
 
-I hold a  **PhD in Engineering** with a focus on mathematical optimization. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment, primarily in Python within large-scale infrastructures.
+I hold a  **PhD in Engineering** with a focus on design and implementation of versatile large-scale system simulation platforms for optimization and control. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment within large-scale infrastructures.
 
 ---
 
