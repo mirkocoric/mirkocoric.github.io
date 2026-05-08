@@ -52,9 +52,9 @@ I hold a  **PhD in Engineering** with a focus on mathematical optimization. It c
 
 ### **University of Zagreb** | Research Assistant
 *2012 - 2017  | Zagreb, Croatia*
-* **Industrial R&D (Ford Motor Company):** Developed high-fidelity models and performance metrics for complex system simulations. Collaborated directly with Ford Technical Fellows to analyze system behavior under diverse, high-stakes operational scenarios.
+* **Industrial R&D (Ford Motor Company):** Developed high-fidelity optimization models and performance metrics for complex system simulations. Analyzed system behavior under diverse, high-stakes operational scenarios.
 * **Advanced Mathematical Optimization:** Applied **Genetic Algorithms** and **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
-* **Multi-domain Systems Engineering:** Led parallel research initiatives in hybrid energy systems, transmission control logic, and high-altitude wind energy infrastructure.
+* **Multi-domain Systems Engineering:** Acted as the lead optimization expert for transmission control and high-altitude wind energy research initiatives.
 * **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
 
 ---
