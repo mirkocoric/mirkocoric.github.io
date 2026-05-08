@@ -50,9 +50,9 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 * **Database & Performance:** Designed and implemented database optimization strategies, significantly improving data import efficiency and overall system throughput.
 * **Backend & Optimization:** Translated complex ORM logic into optimized SQL batch processing to ensure high performance in data-heavy environments.
 
-### **University of Zagreb** | Research Assistant
+### **University of Zagreb** | PhD Researcher
 *2012 - 2017  | Zagreb, Croatia*
-* **Industrial R&D (Ford Motor Company):** Developed high-fidelity optimization models and performance metrics for complex system simulations. Analyzed system behavior under diverse, high-stakes operational scenarios.
+* **Industrial R&D (collaboration with Ford Motor Company):** Developed high-fidelity optimization models and performance metrics for complex system simulations. Analyzed system behavior under diverse, high-stakes operational scenarios.
 * **Advanced Mathematical Optimization:** Applied **Genetic Algorithms** and **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
 * **Multi-domain Systems Engineering:** Acted as the lead optimization expert for transmission control and high-altitude wind energy research initiatives.
 * **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
@@ -70,17 +70,6 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 > "Mirko possesses required competences for high-end research and development work. He has shown exceptional autonomy and meticulous character in his research activities, as well as an enviable level of professional communication."
 > — **Prof. Danijel Pavkovic**, University of Zagreb
 
----
-## Education & Academic Foundation
-
-### **University of Zagreb** | PhD 
-* **Focus:** Advanced Numerical Optimization and Algorithmic Modeling for high-dimensional systems.
-* **R&D Impact:** Published 14 research works (7 journal papers, 5 conference papers) focusing on optimization and performance analysis.
-* **Methodology:** Applied Genetic Algorithms and SQP (Sequential Quadratic Programming) to solve complex non-convex problems.
-
-### **University of Zagreb (FER)** | MSc & BSc in Computer Science / AI
-* **MSc in Automatic Control:** Grade 4.91/5.00 | Focus on Intelligent Control.
-* **BSc in Electrical Engineering:** Grade 4.96/5.00 | Recipient of the Academic Excellence Award.
 
 ---
 
