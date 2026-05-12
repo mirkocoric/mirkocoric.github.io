@@ -10,7 +10,7 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 ## Executive Summary
 
 Scaling high-throughput machine learning systems is where my work lives — at the intersection of research, real traffic, and global infrastructure.
-Over the years,  I’ve designed and scaled high-throughput ML systems used in global products. At **Meta (Core Ads Growth)**, this meant pioneering the ranking system transition to knowledge distillation, multi-task learning, and custom model architectures — and shipping them into one of the world’s largest ads engines.
+Over the years,  I’ve designed and scaled high-throughput ML systems used in global products. At **Meta (Core Ads Growth)**, I specialized in the reliability of the multi-billion annual recurring revenue (currently $20B+ ARR, 100% YoY growth) Value Optimization suite, where I re-engineered serving logic and infrastructure to eliminate system complexities. By combining these infra changes with Knowledge Distillation and Multi Task Learning, I simplified the serving stack, ensuring long-term stability and scalability for high-revenue systems.
 
 Earlier, at **RealNetworks**, the focus was on messaging intelligence: designing systems capable of processing hundreds of millions of events per day. That work contributed to patented solutions in message senders categorization and brand smishing detection.
 
@@ -31,7 +31,7 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 
 ### **Meta** | Senior Software Engineer (Systems) [L5]
 *2021 – 2024 | London, UK*
-* **Architectural Redesign for Ads Ranking ML models:** Led the redesign of model architecture, owned the end-to-end lifecycle—from mathematical design to implementation—optimizing for ranking precision and system throughput.
+•	**Optimized system architecture:** by redesigning serving logic and implementing critical infrastructure changes to mitigate historical SEVs and reduce operational complexity. Contributed to the Reliability workstream for Meta’s Value Optimization suite ($20B+ annual recurring revenue (ARR), 100% YoY growth). To support these infra improvements, I developed and integrated Multi-Task Learning (MTL) and Knowledge Distillation models, resulting in more stable serving environment at massive scale.
 * **Large-Scale Experimentation & Deployment:** Managed the execution of online A/B tests and utilized canary deployment frameworks to validate model and code changes on production subsets before full-scale launch.
 * **Engineering Excellence & Model Freshness:** Drove operational reliability by performing deep-dive root cause analysis on model snapshot rejections and data-shift issues to maintain real-time model accuracy.
 * **Critical Infrastructure Reliability:** Maintained the stability of production ML infrastructure as part of a 24/7 on-call rotation, responding to high-priority incidents and maintaining production availability standards.
