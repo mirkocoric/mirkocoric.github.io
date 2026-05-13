@@ -9,10 +9,11 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 
 ## Executive Summary
 
-Scaling high-throughput machine learning systems is where my work lives — at the intersection of research, real traffic, and global infrastructure.
-Over the years,  I’ve designed and scaled high-throughput ML systems used in global products. At **Meta (Core Ads Growth)**, I specialized in the reliability of the multi-billion annual recurring revenue (currently $20B+ ARR, 100% YoY growth) Value Optimization suite, where I re-engineered serving logic and infrastructure to eliminate system complexities. By combining these infra changes with Knowledge Distillation and Multi Task Learning, I simplified the serving stack, ensuring long-term stability and scalability for high-revenue systems.
+I bridge the gap between advanced mathematical modeling and robust production systems, ensuring cutting-edge AI delivers measurable business value at scale.
 
-Earlier, at **RealNetworks**, the focus was on messaging intelligence: designing systems capable of processing hundreds of millions of events per day. That work contributed to patented solutions in message senders categorization and brand smishing detection.
+At **Meta (Core Ads Growth)**, I spearheaded long-term reliability roadmaps for the $20B+ Value Optimization suite, supporting 100%+ YoY growth. I led initiatives to simplify serving stacks and architected critical changes to the ML model infrastructure, eliminating legacy bottlenecks and ensuring long-term stability for one of Meta’s most high-revenue systems.
+
+Previously, at **RealNetworks**, I architected messaging intelligence platforms processing hundreds of millions of daily events. I hold multiple patents in messaging categorization and brand protection, reflecting my focus on building efficient, secure, and intelligent systems.
 
 I hold a  **PhD in Engineering** with a focus on design and implementation of versatile large-scale system simulation platforms for optimization and control. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment within large-scale infrastructures.
 
@@ -31,11 +32,12 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 
 ### **Meta** | Senior Software Engineer (Systems) [L5]
 *2021 – 2024 | London, UK*
-*	**Optimized system architecture:** by redesigning serving logic and implementing critical infrastructure changes to mitigate historical SEVs and reduce operational complexity. Contributed to the Reliability workstream for Meta’s Value Optimization suite ($20B+ annual recurring revenue (ARR), 100% YoY growth). To support these infra improvements, I developed and integrated Multi-Task Learning (MTL) and Knowledge Distillation models, resulting in more stable serving environment at massive scale.
-* **Large-Scale Experimentation & Deployment:** Managed the execution of online A/B tests and utilized canary deployment frameworks to validate model and code changes on production subsets before full-scale launch.
-* **Engineering Excellence & Model Freshness:** Drove operational reliability by performing deep-dive root cause analysis on model snapshot rejections and data-shift issues to maintain real-time model accuracy.
-* **Critical Infrastructure Reliability:** Maintained the stability of production ML infrastructure as part of a 24/7 on-call rotation, responding to high-priority incidents and maintaining production availability standards.
-* **Systemic Feature Consolidation:** Partnered with infrastructure teams to audit and consolidate the ranking feature set.
+* **Strategic Leadership**: Spearheaded long-term reliability roadmaps for Meta’s $20B+ Value Optimization suite, defining the technical strategy to support 100%+ YoY growth. Redesigned critical system logic to eliminate legacy bottlenecks and proactively mitigate historical SEV causes.
+* **Cross-Team Collaboration**: Led cross-team initiatives for feature consolidation, bridging ML modeling and systems infrastructure to align disparate product goals into a unified, high-efficiency architecture.
+* **Advanced AI Implementation**: Integrated Multi-Task Learning (MTL) and Knowledge Distillation to simplify the serving stack; consolidated fragmented architectures to maintain high-performance inference at massive scale while reducing operational complexity.
+* **Large-Scale Experimentation & Deployment**: Orchestrated rigorous online A/B testing and canary deployment frameworks to validate model and code changes on production subsets prior to full-scale launch.
+* **Engineering Excellence & Model Freshness**: Ensured operational reliability by conducting root-cause analysis on distribution shifts and model snapshot rejections to guarantee real-time accuracy and model performance.
+* **Critical Infrastructure Reliability**: Upholded mission-critical stability of production ML infrastructure as part of a 24/7 on-call rotation, resolving high-priority incidents and ensuring adherence to strict availability standards.
 
 ### **RealNetworks** | Data Scientist / Systems Architect
 *2018 – 2021 | Zagreb, Croatia*
