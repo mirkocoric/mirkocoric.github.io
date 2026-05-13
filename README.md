@@ -44,7 +44,7 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 * **Messaging Intelligence:** Designed multi-stage classification engines processing hundreds of millions of messages daily, integrating real-time content analysis with sender profiling.
 * **Invention (Patent US20230065069A1):** Designed a hybrid detection pipeline to mitigate Brand Smishing attacks using contextual probability and distance-based metrics.
 * **Invention (Patent US20220394435A1):** Developed behavioral fingerprinting systems based on deep learning analysis of message metadata for automated sender categorization.
-* **NLP Leadership:** Led SOTA NLP & Clustering Initiatives: Directed the design and core programming of large-scale natural language understanding and unsupervised text clustering services, bridging the gap between theoretical research and high-performance production logic.
+* **NLP Leadership:** Led SOTA NLP & Clustering Initiatives: Directed the design and core programming of large-scale natural language understanding (EN/ZH), unsupervised text clustering and privacy preserving modules, bridging the gap between theoretical research and high-performance production logic.
 
 ### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
 *2017 - 2018 | Zagreb, Croatia*
@@ -55,9 +55,9 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 ### **University of Zagreb** | PhD Researcher
 *2012 - 2017  | Zagreb, Croatia*
 * **Industrial R&D (collaboration with Ford Motor Company):** Developed high-fidelity optimization models and performance metrics for complex system simulations. Analyzed system behavior under diverse, high-stakes operational scenarios.
-* **Advanced Mathematical Optimization:** Applied **Genetic Algorithms** and **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
+* **Advanced Mathematical Optimization:** Applied **Genetic Algorithms**, **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
 * **Multi-domain Systems Engineering:** Acted as the lead optimization expert for transmission control and high-altitude wind energy research initiatives.
-* **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters) focusing on advanced dynamics and numerical optimization.
+* **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters).
 
 ---
 
