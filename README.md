@@ -17,7 +17,6 @@ Previously, at **RealNetworks**, I architected messaging intelligence platforms 
 
 I hold a  **PhD in Engineering** with a focus on design and implementation of versatile large-scale system simulation platforms for optimization and control. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment within large-scale infrastructures.
 
-List of publications: https://scholar.google.com/citations?user=M7qChCEAAAAJ
 
 ---
 
