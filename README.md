@@ -38,11 +38,11 @@ I hold a **PhD in Robotics** with a focus on designing and implementing versatil
 * **Engineering Excellence & Model Freshness**: Ensured operational reliability by conducting root-cause analysis on distribution shifts and model snapshot rejections to guarantee real-time accuracy and model performance.
 * **Critical Infrastructure Reliability**: Upholded mission-critical stability of production ML infrastructure as part of a 24/7 on-call rotation, resolving high-priority incidents and ensuring adherence to strict availability standards.
 
-### **RealNetworks** | Data Scientist 
+### **RealNetworks** | Data Scientist (ML Systems & Research)
 *2018 – 2021 | Zagreb, Croatia*
 * **System Architecture & Predictive Logic Design:** Architected the multi-stage classification logic and algorithmic blueprints for a high-scale engine processing hundreds of millions of messages daily. Designed the foundational system flows for sender fingerprinting and behavioral profiling, translating complex predictive logic into technical specifications used for production implementation.
 *	**Data Infrastructure, Labeling Operations & Quality Control:** Formulated the data strategy by establishing automated retraining pipelines incorporating strict quality-assurance checks and hard-example mining. Managed a dedicated labeling team to curate high-fidelity datasets, utilizing active learning and adversarial frameworks to iteratively improve model robustness and edge-case accuracy.
-* **Advanced AI Strategy & Technical Steering:** Directed high-impact AI research initiatives and mentored engineering interns through advanced feasibility studies. Led structural evaluations and prototyping for Federated Learning frameworks, Variational Autoencoders (VAEs), and automated synthetic data generation architectures, successfully bridging theoretical AI with scalable production viability.
+* **Advanced AI Strategy & Technical Steering:** Directed high-impact AI research initiatives and mentored engineering interns through advanced feasibility studies. Led structural evaluations and prototyping for Federated Learning frameworks, Variational Autoencoders (VAEs), and automated synthetic data generation architectures, successfully bridging theoretical AI with scalable production viability.Led technical feasibility studies for advanced speech and multilingual NLP products, evaluating the performance and mathematical bounds of cross-domain algorithmic adaptations.
 
 ### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
 *2017 - 2018 | Zagreb, Croatia*
