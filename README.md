@@ -12,7 +12,7 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 I bridge the gap between advanced mathematical modeling and robust production systems, ensuring cutting-edge AI delivers measurable business value at scale.
 
 At **Meta (Core Ads Growth)**, I spearheaded long-term reliability roadmaps for the $20B+ Value Optimization suite, supporting 100%+ YoY growth. I led initiatives to simplify serving stacks and architected critical changes to the ML model infrastructure, eliminating legacy bottlenecks and ensuring long-term stability for one of Meta’s most high-revenue systems.
-I hold a **PhD in Robotics** with a focus on designing and implementing versatile, large-scale system simulation platforms for optimization and control. This foundational research continues to shape how I architect production machine learning systems—maintaining a strict emphasis on deterministic system behavior, low-latency performance trade-offs, and predictable deployment within massive computing infrastructures. Demonstrating this bridge between theory and industry, I hold a granted U.S. patent in predictive active suspension control, which highlights my expertise in leveraging preview information and real-time mathematical optimization to design highly efficient, resilient systems.
+I hold a **PhD in Robotics** with a focus on designing and implementing versatile, large-scale system simulation platforms for optimization and control. This foundational research continues to shape how I architect production machine learning systems—maintaining a strict emphasis on deterministic system behavior, low-latency performance trade-offs, and predictable deployment within massive computing infrastructures. Demonstrating this bridge between theory and industry, I am co-inventor of a granted U.S. patent in predictive active suspension control, which highlights my expertise in leveraging preview information and real-time mathematical optimization to design highly efficient, resilient systems.
 
 
 ---
@@ -40,21 +40,20 @@ I hold a **PhD in Robotics** with a focus on designing and implementing versatil
 ### **RealNetworks** | Data Scientist 
 *2018 – 2021 | Zagreb, Croatia*
 * **System Architecture & Predictive Logic Design:** Architected the multi-stage classification logic and algorithmic blueprints for a high-scale engine processing hundreds of millions of messages daily. Designed the foundational system flows for sender fingerprinting and behavioral profiling, translating complex predictive logic into technical specifications used for production implementation.
-•	**Data Infrastructure, Labeling Operations & Quality Control:** Formulated the data strategy by establishing automated retraining pipelines incorporating strict quality-assurance checks and hard-example mining. Managed a dedicated labeling team to curate high-fidelity datasets, utilizing active learning and adversarial frameworks to iteratively improve model robustness and edge-case accuracy.
-•• **Advanced AI Strategy & Technical Steering:** Directed high-impact AI research initiatives and mentored engineering interns through advanced feasibility studies. Led structural evaluations and prototyping for Federated Learning frameworks, Variational Autoencoders (VAEs), and automated synthetic data generation architectures, successfully bridging theoretical AI with scalable production viability.
+*	**Data Infrastructure, Labeling Operations & Quality Control:** Formulated the data strategy by establishing automated retraining pipelines incorporating strict quality-assurance checks and hard-example mining. Managed a dedicated labeling team to curate high-fidelity datasets, utilizing active learning and adversarial frameworks to iteratively improve model robustness and edge-case accuracy.
+* **Advanced AI Strategy & Technical Steering:** Directed high-impact AI research initiatives and mentored engineering interns through advanced feasibility studies. Led structural evaluations and prototyping for Federated Learning frameworks, Variational Autoencoders (VAEs), and automated synthetic data generation architectures, successfully bridging theoretical AI with scalable production viability.
 
 ### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
 *2017 - 2018 | Zagreb, Croatia*
-* **Geospatial Systems:** Engineered geospatial data clustering software specifically optimized for logistics and transport solutions.
-* **Database & Performance:** Designed and implemented database optimization strategies, significantly improving data import efficiency and overall system throughput.
-* **Backend & Optimization:** Translated complex ORM logic into optimized SQL batch processing to ensure high performance in data-heavy environments.
+*	**Geospatial Algorithm Engineering:** Engineered high-performance geospatial clustering software and spatial indexing logic optimized for large-scale logistics and transport solutions.
+*	**Data Ingestion & Backend Optimization:** Designed robust database optimization strategies, replacing complex, high-overhead ORM operations with optimized SQL batch processing to eliminate bottlenecks in data-heavy environments.
+*	**System Throughput & Performance Tuning:** Refactored core backend routines to drastically improve data import efficiency, ensuring high system throughput and horizontal stability during peak loads.
 
 ### **University of Zagreb** | PhD Researcher
 *2012 - 2017  | Zagreb, Croatia*
-* **Industrial R&D (collaboration with Ford Motor Company):** Developed high-fidelity optimization models and performance metrics for complex system simulations. Analyzed system behavior under diverse, high-stakes operational scenarios.
-* **Advanced Mathematical Optimization:** Applied **Genetic Algorithms**, **Sequential Quadratic Programming (SQP)** to solve large-scale non-convex optimization problems, directly improving system cost-efficiency.
-* **Multi-domain Systems Engineering:** Acted as the lead optimization expert for transmission control and high-altitude wind energy research initiatives.
-* **R&D Publication Record:** Authored 14 peer-reviewed works (7 journal papers, 5 conference papers, 2 book chapters).
+* **Applied Mathematical Optimization & Systems Simulation:** Designed and implemented versatile, high-fidelity simulation platforms tailored for non-convex programming, system optimization, and real-time control frameworks. Developed advanced programmatic pipelines to model complex vehicle dynamics and evaluate high-stakes operational scenarios under rigorous performance metrics.
+* **Algorithmic Core Engineering & Intellectual Property:** Authored custom numerical methods and non-convex optimization routines utilizing Sequential Quadratic Programming (SQP) and pseudospectral collocation methods to bridge applied mathematical theory with high-performance execution. Co-inventor of a novel optimization methodology focused on system efficiency and control logic, resulting in a patented architecture.
+* **Peer-Reviewed Track Record:** Published 14 peer-reviewed scientific works documenting novel optimization methodologies, including 7 journal papers, 5 conference papers, and 2 book chapters.
 
 ---
 
