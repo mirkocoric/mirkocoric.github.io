@@ -30,8 +30,8 @@ I hold a **PhD in Robotics** with a focus on designing and implementing versatil
 
 ### **Meta** | Senior Software Engineer (Systems) [L5]
 *2021 – 2024 | London, UK*
-* **Strategic Leadership**: Spearheaded long-term reliability roadmaps for Meta’s $20B+ Value Optimization suite, defining the technical strategy to support 100%+ YoY growth. Redesigned critical system logic to eliminate legacy bottlenecks and proactively mitigate historical SEV causes.
-* **Long-Horizon Modeling Strategy**: Authored the long-term technical strategy and architectural roadmap for Long Attribution Window (LAW) models, defining the multi-year evolution of high-throughput predictive frameworks under extended temporal constraints.
+•	**Strategic Systems Leadership**: Architected long-term reliability roadmaps for Meta’s $20B+ Value Optimization suite, defining the technical strategy to support 100%+ YoY growth. Redesigned critical infrastructure logic to eliminate legacy bottlenecks and proactively mitigate systemic SEV causes.
+•	**Long-Horizon Modeling Strategy**: Authored the long-term technical strategy and architectural roadmap for Long Attribution Window (LAW) models, defining the multi-year evolution of high-throughput predictive frameworks under extended temporal constraints.
 * **Cross-Team Collaboration**: Led cross-team initiatives for feature consolidation, bridging ML modeling and systems infrastructure to align disparate product goals into a unified, high-efficiency architecture.
 * **Advanced AI Implementation**: Integrated Multi-Task Learning (MTL) and Knowledge Distillation to simplify the serving stack while developing custom loss functions and regularization techniques to improve model convergence. Enabled high-performance inference at massive scale, reducing operational complexity, and unlocking critical hardware scaling efficiencies.
 * **Large-Scale Experimentation & Deployment**: Orchestrated rigorous online A/B testing and canary deployment frameworks to validate model and code changes on production subsets prior to full-scale launch.
