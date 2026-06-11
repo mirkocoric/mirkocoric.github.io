@@ -12,10 +12,7 @@ Ex-Meta L5 | Large-Scale ML (Ads, Ranking, NLP) | PhD
 I bridge the gap between advanced mathematical modeling and robust production systems, ensuring cutting-edge AI delivers measurable business value at scale.
 
 At **Meta (Core Ads Growth)**, I spearheaded long-term reliability roadmaps for the $20B+ Value Optimization suite, supporting 100%+ YoY growth. I led initiatives to simplify serving stacks and architected critical changes to the ML model infrastructure, eliminating legacy bottlenecks and ensuring long-term stability for one of Meta’s most high-revenue systems.
-
-Previously, at **RealNetworks**, I architected messaging intelligence platforms processing hundreds of millions of daily events. I hold multiple patents in messaging categorization and brand protection, reflecting my focus on building efficient, secure, and intelligent systems.
-
-I hold a  **PhD in Engineering** with a focus on design and implementation of versatile large-scale system simulation platforms for optimization and control. It continues to shape how I approach machine learning in production — with an emphasis on system behavior, performance trade-offs, and reliable deployment within large-scale infrastructures.
+I hold a **PhD in Robotics** with a focus on designing and implementing versatile, large-scale system simulation platforms for optimization and control. This foundational research continues to shape how I architect production machine learning systems—maintaining a strict emphasis on deterministic system behavior, low-latency performance trade-offs, and predictable deployment within massive computing infrastructures. Demonstrating this bridge between theory and industry, I hold a granted U.S. patent in predictive active suspension control, which highlights my expertise in leveraging preview information and real-time mathematical optimization to design highly efficient, resilient systems.
 
 
 ---
@@ -40,12 +37,11 @@ I hold a  **PhD in Engineering** with a focus on design and implementation of ve
 * **Engineering Excellence & Model Freshness**: Ensured operational reliability by conducting root-cause analysis on distribution shifts and model snapshot rejections to guarantee real-time accuracy and model performance.
 * **Critical Infrastructure Reliability**: Upholded mission-critical stability of production ML infrastructure as part of a 24/7 on-call rotation, resolving high-priority incidents and ensuring adherence to strict availability standards.
 
-### **RealNetworks** | Data Scientist / Systems Architect
+### **RealNetworks** | Data Scientist 
 *2018 – 2021 | Zagreb, Croatia*
-* **Messaging Intelligence:** Designed multi-stage classification engines processing hundreds of millions of messages daily, integrating real-time content analysis with sender profiling.
-* **Invention (Patent US20230065069A1):** Designed a hybrid detection pipeline to mitigate Brand Smishing attacks using contextual probability and distance-based metrics.
-* **Invention (Patent US20220394435A1):** Developed behavioral fingerprinting systems based on deep learning analysis of message metadata for automated sender categorization.
-* **NLP Leadership:** Led SOTA NLP & Clustering Initiatives: Directed the design and core programming of large-scale natural language understanding (EN/ZH), unsupervised text clustering and privacy preserving modules, bridging the gap between theoretical research and high-performance production logic.
+* **System Architecture & Predictive Logic Design:** Architected the multi-stage classification logic and algorithmic blueprints for a high-scale engine processing hundreds of millions of messages daily. Designed the foundational system flows for sender fingerprinting and behavioral profiling, translating complex predictive logic into technical specifications used for production implementation.
+•	**Data Infrastructure, Labeling Operations & Quality Control:** Formulated the data strategy by establishing automated retraining pipelines incorporating strict quality-assurance checks and hard-example mining. Managed a dedicated labeling team to curate high-fidelity datasets, utilizing active learning and adversarial frameworks to iteratively improve model robustness and edge-case accuracy.
+•	**Advanced AI & Algorithmic R&D:** Provided technical steering and architectural review for complex NLP initiatives, driving design discussions and developing early-stage prototypes for text processing and unsupervised clustering frameworks. Conducted rigorous feasibility studies for low-latency Large Language Models (LLMs), computer vision systems, and speech algorithms to evaluate production viability.
 
 ### **Office of Advanced Computing (OptimoRoute)** | Software Engineer
 *2017 - 2018 | Zagreb, Croatia*
