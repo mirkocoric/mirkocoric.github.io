@@ -29,7 +29,7 @@ I hold a **PhD in Robotics** with a focus on designing and implementing versatil
 ## Detailed Professional Experience
 
 ### **Meta** | Senior Software Engineer (Systems) [L5]
-*2021 – 2024 | London, UK  | Remote, UK*
+*2021 – 2024 | London, UK  / Remote, UK*
 *	**Strategic Systems Leadership**: Architected long-term reliability roadmaps for Meta’s $20B+ Value Optimization suite, defining the technical strategy to support 100%+ YoY growth. Redesigned critical infrastructure logic to eliminate legacy bottlenecks and proactively mitigate systemic SEV causes.
 *	**Long-Horizon Modeling Strategy**: Authored the long-term technical strategy and architectural roadmap for Long Attribution Window (LAW) models, defining the multi-year evolution of high-throughput predictive frameworks under extended temporal constraints.
 * **Cross-Team Collaboration**: Led cross-team initiatives for feature consolidation, bridging ML modeling and systems infrastructure to align disparate product goals into a unified, high-efficiency architecture.
